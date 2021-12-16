@@ -5,11 +5,11 @@ concerne o desenvolvimento de um site elegante, simples, e bonito.
 
 ## Design Original
 
-<img src="https://raw.githubusercontent.com/Eli450/Codehouse/main/.github/original.png">
+<img src="https://github.com/Eli450/Codehouse/blob/main/.github/original.png">
 
 ## Produto final
 
-<img src="https://raw.githubusercontent.com/Eli450/Codehouse/main/.github/site.png">
+<img src="https://github.com/Eli450/Codehouse/blob/main/.github/site.png">
 
 License
 ----------------
