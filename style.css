@@ -1,3 +1,59 @@
 body {
     background-color: #F0EDEA;
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+}
+
+.barra-de-navegacao {
+    height: 91px;
+    padding: 31px 35px 31px 35px;
+    position: relative;
+    font-size: 14px;
+}
+
+.barra-de-navegacao > div {
+    float: left;
+}
+
+.logotipo {
+    width: 18%;
+}
+
+.links-de-navegacao {
+    width: 58%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.links-de-navegacao > ul {
+   
+}
+
+.links-de-navegacao > ul > li {
+    display: inline;
+    padding-right: 10%;
+}
+
+.links {
+    width: 20%;
+}
+
+.links ul li {
+    padding-right: 10%;
+    display: inline;
+}
+
+.links ul li a{
+    text-decoration: none;
+}
+
+.login {
+    color: black;
+}
+
+.try {
+    color: white;
+    background-color: black;
+    padding: 10px;
 }
