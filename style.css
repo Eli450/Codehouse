@@ -104,3 +104,10 @@ body {
  .watch {
      padding-left: 16px;
  }
+
+ .icon-watch {
+     width: 16px;
+     border: 2px solid black;
+     border-radius: 512px;
+     padding: 2px;
+ }
