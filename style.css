@@ -1,3 +1,7 @@
+html {
+    max-width: 100%;
+}
+
 body {
     background-color: #F0EDEA;
     margin: 0;
@@ -6,7 +10,7 @@ body {
 
 .barra-de-navegacao {
     height: 91px;
-    padding: 31px 35px 31px 35px;
+    padding: 31px 35px 0px 35px;
     position: relative;
     font-size: 14px;
 }
@@ -57,3 +61,46 @@ body {
     background-color: black;
     padding: 10px;
 }
+.capa {
+    height: 516px;
+    width: 100%;
+    display: flex;
+}
+
+.intro {
+    padding-left: 6%;
+}
+
+.intro h1 {
+    font-size: 85px;
+    font-family: 'Karla', sans-serif;
+}
+
+.intro p {
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+}
+
+.video {
+    font-size: 14px;
+    font-family: 'Inter', sans-serif; 
+    padding-top: 4%;   
+}
+
+.video ul li {
+    display: inline;
+}
+
+.video ul {
+    padding-left: 0px;
+}
+
+ .learn {
+     color:white;
+     background-color: black;
+     padding: 16px;
+ }
+
+ .watch {
+     padding-left: 16px;
+ }
