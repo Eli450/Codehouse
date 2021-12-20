@@ -41,6 +41,7 @@ body {
 
 .links {
     width: 20%;
+    margin-left: 4%;
 }
 
 .links ul li {
@@ -67,18 +68,31 @@ body {
     display: flex;
 }
 
+.anexos {
+    width: 50%;
+}
+
+.anexos img {
+    width: 100%;
+    margin-top: 90px;
+}
+
 .intro {
     padding-left: 6%;
+    width: 46%;
 }
 
 .intro h1 {
     font-size: 85px;
     font-family: 'Karla', sans-serif;
+    font-weight: bolder;
+    font-weight: 400;
 }
 
 .intro p {
     font-family: 'Inter', sans-serif;
     font-size: 14px;
+    width: 39%;
 }
 
 .video {
